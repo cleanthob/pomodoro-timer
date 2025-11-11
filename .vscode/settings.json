@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "cls | tsx", // antes estava apenas "ts-node"
+    }
+}
